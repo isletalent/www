@@ -312,13 +312,8 @@ header .social-icon a:hover {
   }
 }
 
-.goog-te-banner-frame.skiptranslate {
-    display: none !important;
-}
-
 body {
   background: black !important; 
-  top: 0px !important;
   font-family: 'Poppins', sans-serif;
 }
 
